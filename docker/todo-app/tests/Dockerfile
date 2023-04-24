@@ -1,4 +1,4 @@
-FROM betrybe/puppeteer:1.0
+FROM betrybe/puppetter:1.0
 
 WORKDIR /app/tests
 
